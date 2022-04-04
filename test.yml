@@ -1,0 +1,10 @@
+{
+  "name": "Juan",
+  "age": 35,
+  "address": "Domicilio conocido",
+  "active": true,
+  "key": {
+    "key": "value",
+    "key2": 33
+  }
+}
